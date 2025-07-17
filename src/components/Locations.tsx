@@ -10,7 +10,7 @@ const Locations = () => {
       time: "9:00 AM",
       pastor: "Pastor Grace Wanjiku",
       phone: "+254 700 123 456",
-      email: "nairobi@livingstone.church"
+      email: "nairobi@livingrock.church"
     },
     {
       city: "Mombasa", 
@@ -18,7 +18,7 @@ const Locations = () => {
       time: "10:30 AM",
       pastor: "Pastor David Kimani",
       phone: "+254 700 234 567",
-      email: "mombasa@livingstone.church"
+      email: "mombasa@livingrock.church"
     },
     {
       city: "Kisumu",
@@ -26,7 +26,7 @@ const Locations = () => {
       time: "10:30 AM", 
       pastor: "Pastor Mary Otieno",
       phone: "+254 700 345 678",
-      email: "kisumu@livingstone.church"
+      email: "kisumu@livingrock.church"
     },
     {
       city: "Nakuru",
@@ -34,7 +34,7 @@ const Locations = () => {
       time: "3:00 PM",
       pastor: "Pastor Samuel Mwangi",
       phone: "+254 700 456 789",
-      email: "nakuru@livingstone.church"
+      email: "nakuru@livingrock.church"
     }
   ];
 

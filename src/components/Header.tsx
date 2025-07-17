@@ -46,7 +46,7 @@ const Header = () => {
                   <div className="w-3 h-3 bg-primary rounded-full"></div>
                 </div>
               </div>
-              <span className="ml-3 text-xl font-bold text-primary">Living Stone Church</span>
+              <span className="ml-3 text-xl font-bold text-primary">Living Rock Church</span>
             </div>
 
             {/* Desktop Navigation */}

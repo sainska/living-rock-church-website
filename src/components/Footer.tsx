@@ -30,7 +30,7 @@ const Footer = () => {
                   <div className="w-3 h-3 bg-primary-foreground rounded-full"></div>
                 </div>
               </div>
-              <span className="ml-3 text-xl font-bold">Living Stone Church</span>
+              <span className="ml-3 text-xl font-bold">Living Rock Church</span>
             </div>
             <p className="text-primary-foreground/80 leading-relaxed">
               A vibrant, diverse church family with a mission from the heart of Kenya to the ends of the earth.
@@ -83,7 +83,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 flex-shrink-0" />
-                <span className="text-primary-foreground/80">hello@livingstone.church</span>
+                <span className="text-primary-foreground/80">hello@livingrock.church</span>
               </div>
             </div>
           </div>
@@ -113,7 +113,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-primary-foreground/60 text-sm">
-            © 2024 Living Stone Church. All rights reserved.
+            © 2024 Living Rock Church. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#privacy" className="text-primary-foreground/60 hover:text-primary-foreground text-sm transition-colors">

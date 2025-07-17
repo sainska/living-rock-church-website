@@ -23,7 +23,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg md:text-xl lg:text-2xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
-            Living Stone Church is a vibrant, growing, family church with locations across Kenya. We 
+            Living Rock Church is a vibrant, growing, family church with locations across Kenya. We 
             believe Church should be fun, relevant, full of life and full of Jesus!
           </p>
 

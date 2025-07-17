@@ -38,7 +38,7 @@ const Welcome = () => {
           {/* Welcome Message */}
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-primary">
-              New to Living Stone? Karibu!
+              New to Living Rock? Karibu!
             </h2>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
               Here's everything you need to know in 30 seconds 👇
@@ -52,7 +52,7 @@ const Welcome = () => {
                 </div>
               </div>
               <div className="absolute inset-0 flex items-center justify-center">
-                <span className="text-white font-semibold">Welcome to Living Stone Church</span>
+                <span className="text-white font-semibold">Welcome to Living Rock Church</span>
               </div>
             </div>
 
